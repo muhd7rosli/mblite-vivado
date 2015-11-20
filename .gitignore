@@ -1,0 +1,5 @@
+# ignored folders generated from vivado
+/*/*.cache/
+/*/*.hw/
+/*/*.ip_user_files/
+/*/*.sim/
